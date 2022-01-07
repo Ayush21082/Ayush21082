@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ayush github stats](https://github-readme-stats.vercel.app/api?username=ayush21082&show_icons=true&count_private=true&show_icons=true)
+
+![Ayush top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush21082&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,ayush21082.github.io,gims-dump,device_oneplus_avicii,oos-cam)
+
+Viewer Count :
+ ![Visitor Count](https://profile-counter.glitch.me/{ayush21082}/count.svg)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayush21082&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
