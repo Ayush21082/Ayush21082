@@ -1,6 +1,6 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Ayush. </h1>
 
-<b>👋 I'm a Self Starter and Quick Learner ☕  WWDC'21 Winner </b>
+<b>👋 I'm a Self Starter and Quick Learner ☕  2x WWDC Winner 2021, 2022 </b>
 
 - 💼 any freelance work? do reach, [email](mailto:ayush.singh21082@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
