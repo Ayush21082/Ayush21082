@@ -1,52 +1,100 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Ayush. </h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hello! I'm Ayush 👋
+</h1>
 
-<b>👋 I'm a Self Starter and Quick Learner ☕  2x WWDC Winner 2021, 2022 </b>
+<b>
+💻 iOS Engineer @ Blinkit •  4× Apple WWDC Scholar (2021, 2022, 2023, 2024)
+</b>
 
-- 💼 any freelance work? do reach, [email](mailto:ayush.singh21082@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+Building delightful consumer products on Apple platforms.
 
-**🔨languages and tools:**  
+Creator of <b>Notchy</b> • Organizer of <b>Swift Delhi</b> • Indie Builder
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Previously @ Techburner, Somnox
 
+---
 
-<!-- **Ayush21082/Ayush21082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About me
 
-Here are some ideas to get you started:
+- 📱 Building experiences across **iOS, macOS & backend**
+- ⚡ Interested in **product engineering, system design & platform experiences**
+- 🛠 Building **Notchy** — transform your MacBook notch into a productivity hub
+- 👥 Organizing **Swift Delhi**, a community for iOS developers across Delhi NCR
+- 🏆 4× Apple WWDC Scholar
+- ✨ Built products reaching **200K+ downloads**
+- 💬 Always happy to talk about **SwiftUI, UIKit, AppKit, product building, indie apps & WWDC**
+- 📬 Reach me → **ayush.singh21082@icloud.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+---
 
-**📈 my github stats**
+### 🔨 Languages & Tools
 
-![Ayush github stats](https://github-readme-stats.vercel.app/api?username=ayush21082&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
+<p>
 
-![Ayush top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush21082&theme=tokyonight&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,ayush21082.github.io,gims-dump,device_oneplus_avicii,oos-cam)
+<img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"/>
 
-Viewer Count :
- ![Visitor Count](https://profile-counter.glitch.me/{ayush21082}/count.svg)
+<img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayush21082&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"/>
 
-**if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈**
+<img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/>
 
-<a href="https://www.buymeacoffee.com/codexpose" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/>
 
+<img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"/>
 
-<a href="https://twitter.com/ayush21082">
-  <img align="right" alt="Ayush Singh | Twitter" width="30px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
+<img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"/>
+
+</p>
+
+**Frameworks**
+`SwiftUI` • `UIKit` • `AppKit` • `ARKit` • `RealityKit` • `SiriKit`
+
+---
+
+### ✨ Featured Projects
+
+#### 🪄 Notchy
+Transform your MacBook notch into a productivity hub
+
+→ https://notchy.app
+
+#### 🍜 Ramen Kit
+Backend-driven UI framework generating SwiftUI interfaces from JSON
+
+#### 🖼 FreshWalls
+Wallpaper app reaching **200K+ downloads**
+
+#### 🚁 DronezAR
+WWDC24 Winning Project using AR + RealityKit
+
+---
+
+### 📈 GitHub Stats
+
+![Ayush github stats](https://github-readme-stats.vercel.app/api?username=ayush21082&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush21082&theme=tokyonight&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayush21082&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### 🌍 Find me
+
+<a href="https://x.com/heyayush_io">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/ayush21082/">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="30px" src="https://cheetahdesignstudio.com/NHphotography/wp-content/uploads/2014/02/icon-linkedin.png" />
+
+<a href="https://linkedin.com/in/ayush21082">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
+
+<a href="https://github.com/ayush21082">
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</a>
+
+---
+
+<i>Engineer + Product Builder + Indie Creator + Community Organizer ✨</i>
